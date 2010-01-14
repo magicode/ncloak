@@ -1,5 +1,11 @@
 #summary Release Notes
 
+= 0.3 =
+
+  * Added ILDASM suppression
+  * Added Invalid IL insertion to fool Reflector 
+  * Added support for 64bit encryption
+
 = 0.2 =
 
   * Expanded tasks so that saving occurs in a separate task, and assemblies are cached until such
